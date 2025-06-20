@@ -1,5 +1,5 @@
 /*****************************************
- *  Author:      GCZ79   *
+ *  Author:      GCZ79                   *
  *  Date:        05-24-2025              *
  *  Description: Chada Tech dual clock   *
  *                                       *
