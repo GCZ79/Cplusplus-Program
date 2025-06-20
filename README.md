@@ -14,10 +14,11 @@ I should improve the validation system by including the handling of non-numeric 
 
 • Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
 --------------------------------------------------------------------------------
-The most challenging and fun part has been to handle the time conversion paying attention to the noon/midnight edge cases (I lost the count of how many times I tested 11:59:59..). I didn't have particular troubles writing this program, I probably spent more time looking for visually pleasing unicodes than the real coding part, but I had the ZyBook always open on my second monitor to help me with proper syntax and logic. I used AI just to make sure that my program was compliant with the requirement of the project and I also didn't need help from any forums like Stack Overflow, but I am aware of how effective is AI in any phase of the programming, and how useful internet forums can be.
+The most challenging and fun part has been to handle the time conversion paying attention to the noon/midnight edge cases (I lost the count of how many times I tested 11:59:59..). I didn't have particular trouble writing this program, I probably spent more time looking for visually pleasing unicode characters than on the actual coding, but I kept the ZyBook always open on my second monitor to help me with proper syntax and logic. I used AI mainly to ensure that my program met the project requirements. I didn't need to ask for help on any forums like Stack Overflow, but I am aware of how helpful AI tools can be at any stage of programming, and how valuable internet forums are when challenges arise.
 
 • What skills from this project will be particularly transferable to other projects or course work?
 --------------------------------------------------------------------------------
+
 
 • How did you make this program maintainable, readable, and adaptable?
 --------------------------------------------------------------------------------
