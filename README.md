@@ -18,7 +18,8 @@ The most challenging and fun part has been to handle the time conversion paying 
 
 • What skills from this project will be particularly transferable to other projects or course work?
 --------------------------------------------------------------------------------
-
+This project reinfored my attention to details, the aim on building fully functional but also visually pleasing programs, the need of writing an effective but even well ordered and plentifully commented code, and the importance of following industry and company coding standards to ensure consistency and collaboration.
 
 • How did you make this program maintainable, readable, and adaptable?
 --------------------------------------------------------------------------------
+To make the program easy to mantain I used a modular design and separated the display logic (clocks.cpp) from the control flow (main.cpp). I tried to include a lot of comments to explain what my code was doing, but also tried to format those comments in a orderly and visually pleasing way to facilitate readability. I used clear naming conventions and consistent indentation to try to make the program easily understandable and adaptable for future enhancements, wheter by me or other developers.
